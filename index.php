@@ -7,6 +7,6 @@
 </head>
 <body>
     <?php 
-    echo <"HELLO PAULIN!!"> ?>
+    echo <"good night"> ?>
 </body>
 </html>
